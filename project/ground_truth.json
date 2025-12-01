@@ -1,0 +1,51 @@
+{
+  "title": "AutoIE: An Automated Framework for Information Extraction from Scientific Literature",
+  "authors": [
+    "Yangyang Liu",
+    "Shoubin Li"
+  ],
+  "affiliations": [
+    "University of Auckland, Auckland, New Zealand",
+    "Institute of Software Chinese Academy of Sciences, Beijing, China"
+  ],
+  "email": [
+    "yilu660@aucklanduni.ac.nz",
+    "shoubin@iscas.ac.cn"
+  ],
+  "abstract": "In the rapidly evolving field of scientific research, efficiently extracting key information from the burgeoning volume of scientific papers remains a formidable challenge. This paper introduces an innovative framework designed to automate the extraction of vital data from scientific PDF documents...",
+  "keywords": [
+    "Information Extraction",
+    "Layout Analysis",
+    "Scientific Document Analysis"
+  ],
+  "core_terms": [
+    "extraction",
+    "layout analysis",
+    "scientific papers",
+    "model",
+    "source",
+    "NER",
+    "data",
+    "document parsing",
+    "relation",
+    "document layout"
+  ],
+  "sections": {
+    "introduction": "Recent statistics reveal a general trend of an approximate 4% annual increase in the publication rate of scientific and technological papers...",
+    "related_work": "With the development of deep learning, there has been a paradigm shift in layout analysis techniques...",
+    "framework": "In this section, we describe the framework architecture of our framework...",
+    "method": "In this section, we deploy the SBERT model, a state-of-the-art approach for key information extraction...",
+    "experiment": "This section describes data, experiments, and evaluations of our results...",
+    "conclusion": "In this research, we developed an innovative framework for extracting key information from scientific papers..."
+  },
+  "named_entities": [
+    {"text": "AutoIE", "label": "ORG"},
+    {"text": "SBERT", "label": "ORG"},
+    {"text": "University of Auckland", "label": "ORG"},
+    {"text": "Beijing", "label": "GPE"},
+    {"text": "CoNLL04", "label": "ORG"},
+    {"text": "ADE", "label": "ORG"},
+    {"text": "BERT", "label": "ORG"},
+    {"text": "2024", "label": "DATE"}
+  ]
+}

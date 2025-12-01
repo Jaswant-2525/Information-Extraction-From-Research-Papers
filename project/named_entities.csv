@@ -1,0 +1,595 @@
+Entity,Label
+IR,ORG
+30 Jan 2024,DATE
+Yangyang Liu1[0009−0001−0539−338X,PERSON
+New Zealand,GPE
+2 Institute of Software Chinese Academy of Sciences,ORG
+Beijing,GPE
+China,GPE
+scientiﬁc research,ORG
+PDF,ORG
+AutoIE,GPE
+four,CARDINAL
+1,CARDINAL
+PDF,ORG
+2,CARDINAL
+3,CARDINAL
+4,CARDINAL
+SBERT,PERSON
+Marco F1,ORG
+87.19,CARDINAL
+89.65,CARDINAL
+ADE,ORG
+AutoIE,GPE
+78%,PERCENT
+"scientiﬁc docu-
+ment",PERSON
+Analysis,ORG
+1,CARDINAL
+an approximate 4%,PERCENT
+annual,DATE
+1,CARDINAL
+AutoIE,GPE
+2,CARDINAL
+Yangyang Liu,PERSON
+Shoubin Li,PERSON
+1,CARDINAL
+2,CARDINAL
+3,CARDINAL
+Fig,PERSON
+1,CARDINAL
+three,CARDINAL
+"Location Unit, Information Extraction Unit",ORG
+"Display and Human Feedback
+Unit",ORG
+Location Unit,ORG
+"the Multi-Semantic Feature
+Fusion",ORG
+Approach,ORG
+PDF Document Layout Analysis,ORG
+Advanced Functional Block Recognition,ORG
+Scientiﬁc Texts,PERSON
+AFBRSC,ORG
+the Information Extraction Unit,ORG
+SBERT,PERSON
+the Human Feedback Unit,ORG
+"the Online Learning Paradigm Tailored
+Method",ORG
+OLPTM,ORG
+1,CARDINAL
+SBERT’s Technical Superiority,ORG
+SBERT,PERSON
+Marco F1,FAC
+87.19,CARDINAL
+89.65,CARDINAL
+ADE,ORG
+78%,PERCENT
+SBERT,ORG
+2,CARDINAL
+AutoIE,GPE
+AutoIE,GPE
+Molecular,GPE
+3,CARDINAL
+2.1,CARDINAL
+16,CARDINAL
+SSD,ORG
+17,CARDINAL
+YOLO,ORG
+18,CARDINAL
+2017,DATE
+19,CARDINAL
+2.2,CARDINAL
+Bowen,PERSON
+al,PERSON
+21,CARDINAL
+Zeng,PERSON
+al,PERSON
+22,CARDINAL
+6,CARDINAL
+23,CARDINAL
+6,CARDINAL
+BERT,ORG
+BERT,ORG
+Fatema et al,PERSON
+24,CARDINAL
+Bert,PERSON
+NLP,ORG
+BERT,ORG
+SBERT,PERSON
+BERT,ORG
+3,CARDINAL
+Fig,PERSON
+1,CARDINAL
+4,CARDINAL
+Yangyang Liu,PERSON
+Shoubin Li,PERSON
+Location,ORG
+1,CARDINAL
+3.1,CARDINAL
+3.1.1,CARDINAL
+Location,ORG
+Location Unit,ORG
+PDF,ORG
+two,CARDINAL
+PDF,ORG
+Firstly,ORDINAL
+2,CARDINAL
+PDF,ORG
+3,CARDINAL
+3.1.2 Information Extraction,ORG
+The Information Extraction Unit,ORG
+Layout,GPE
+Human Feedback Unit,ORG
+Title Suppressed Due to Excessive Length,WORK_OF_ART
+5,CARDINAL
+Sentence-BERT,ORG
+SBERT,ORG
+3.1.3,CARDINAL
+Display and Human Feedback Unit,ORG
+The Display and Human Feedback Unit,ORG
+SBERT,PERSON
+the Information Extraction,ORG
+Model Training Units,PERSON
+3.2,CARDINAL
+SBERT,PERSON
+PDF,ORG
+3.2.1,CARDINAL
+Span Embedding,PERSON
+4,CARDINAL
+BERT,ORG
+Width Embedding,PERSON
+5,CARDINAL
+6,CARDINAL
+BERT,ORG
+7,CARDINAL
+NLTK,ORG
+8,CARDINAL
+NLTK,ORG
+6,CARDINAL
+Yangyang Liu,PERSON
+Shoubin Li,PERSON
+Loc,PERSON
+2,CARDINAL
+SBERT,ORG
+Fig,PERSON
+2,CARDINAL
+two,CARDINAL
+Subse-,PERSON
+Fig,PERSON
+2,CARDINAL
+6,CARDINAL
+max,PERSON
+max,PERSON
+BERT,ORG
+ω1,CARDINAL
+Title Suppressed Due to Excessive Length,WORK_OF_ART
+7,CARDINAL
+Ek,PERSON
+1,CARDINAL
+∗means,NORP
+the top right half,DATE
+Fig,PERSON
+2,CARDINAL
+N*N,ORG
+N*N,ORG
+three,CARDINAL
+1,CARDINAL
+c(e1,ORG
+6,CARDINAL
+max,PERSON
+2,CARDINAL
+BERT,ORG
+ωe2,PERSON
+c(ωe1,ORG
+ωe2,WORK_OF_ART
+ωe2,WORK_OF_ART
+p(c(ωe1,GPE
+ωe2,PERSON
+3,CARDINAL
+k2,PERSON
+three,CARDINAL
+∗p(ωe1,PERSON
+2,CARDINAL
+∗means,NORP
+8,CARDINAL
+Yangyang Liu,PERSON
+Shoubin Li,PERSON
+two,CARDINAL
+SBERT,ORG
+4.1,CARDINAL
+two,CARDINAL
+one,CARDINAL
+1,CARDINAL
+Conll04,GPE
+9,CARDINAL
+four,CARDINAL
+"Kill, Organization-Based-In",ORG
+Located-In,ORG
+10,CARDINAL
+1153,DATE
+288,CARDINAL
+2,CARDINAL
+ADE,ORG
+11,CARDINAL
+Adverse-Eﬀect and Drug,WORK_OF_ART
+Adverse-Eﬀect,WORK_OF_ART
+ten,CARDINAL
+6,CARDINAL
+3,CARDINAL
+PDF,ORG
+2000,CARDINAL
+two,CARDINAL
+DOI,ORG
+"Alkali
+Source",ORG
+Crystallization Conditions,ORG
+Crystallization Conditions,ORG
+Gel Composition,ORG
+Silicon Source,ORG
+Aluminum Source,PERSON
+Molecular Sieve Structure Information,WORK_OF_ART
+4.2,CARDINAL
+two,CARDINAL
+SBERT,PERSON
+12,CARDINAL
+13,CARDINAL
+Relation-Metric,ORG
+14,CARDINAL
+Relation-Metric,ORG
+15,CARDINAL
+Spert,ORG
+6,CARDINAL
+Model Conﬁguration: Pre-training,ORG
+BERTBASE,ORG
+English,LANGUAGE
+Learning Rate,PERSON
+0.1,CARDINAL
+Width Embedding,PERSON
+10,CARDINAL
+25,CARDINAL
+Batch Size,PERSON
+Title Suppressed Due to Excessive Length,WORK_OF_ART
+9,CARDINAL
+Relational Filtering,ORG
+30,CARDINAL
+2,CARDINAL
+0.4,CARDINAL
+100,CARDINAL
+6,CARDINAL
+10,CARDINAL
+60,CARDINAL
+Spans,NORP
+zeros,CARDINAL
+F1,ORG
+TP,ORG
+True Positive,ORG
+TN,ORG
+True Negative,ORG
+False Negative,PERSON
+FP,ORG
+"False Positive
+",WORK_OF_ART
+3,CARDINAL
+F1,GPE
+2,CARDINAL
+4,CARDINAL
+ten-fold,CARDINAL
+1,CARDINAL
+Speciﬁcally,PERSON
+1%,PERCENT
+Macro F1,ORG
+F1,GPE
+72.87,CARDINAL
+ADE,ORG
+"4.3
+Result",QUANTITY
+ADE,ORG
+1,CARDINAL
+ADE,ORG
+10,CARDINAL
+Yangyang Liu,PERSON
+Shoubin Li,PERSON
+1,CARDINAL
+Ten,CARDINAL
+ADE,ORG
+Dataset,ORG
+NER,ORG
+61.95,CARDINAL
+83.60,CARDINAL
+62.04,CARDINAL
+83.90,CARDINAL
+Relation-Metric,ORG
+62.29,CARDINAL
+64.40,CARDINAL
+86.20,CARDINAL
+Spert,ORG
+72.87,CARDINAL
+86.25,CARDINAL
+73.18,CARDINAL
+87.19,CARDINAL
+74.58,CARDINAL
+86.40,CARDINAL
+75.52,CARDINAL
+86.73,CARDINAL
+Relation-Metric,ORG
+77.19,CARDINAL
+87.02,CARDINAL
+78.84,CARDINAL
+89.28,CARDINAL
+Spert,ORG
+79.24,CARDINAL
+89.25,CARDINAL
+79.84,CARDINAL
+89.65,CARDINAL
+4.4,CARDINAL
+SBERT,PERSON
+four,CARDINAL
+Table 2.,PRODUCT
+0.93,CARDINAL
+0.96,CARDINAL
+0.60,CARDINAL
+0.90,CARDINAL
+0.63,CARDINAL
+0.95,CARDINAL
+0.77,CARDINAL
+0.91,CARDINAL
+0.80,CARDINAL
+0.79,CARDINAL
+0.85,CARDINAL
+0.88,CARDINAL
+0.57,CARDINAL
+0.76,CARDINAL
+Silicon Source,FAC
+0.57,CARDINAL
+0.43,CARDINAL
+Molecular Sieve Structure Information,WORK_OF_ART
+0.79,CARDINAL
+1/3,CARDINAL
+2/3,CARDINAL
+1,CARDINAL
+Title Suppressed Due to Excessive Length,WORK_OF_ART
+11,CARDINAL
+ten-fold,CARDINAL
+90%,PERCENT
+69%,PERCENT
+78%,PERCENT
+Table 2,LAW
+SBERT,PERSON
+AutoIE,GPE
+3,CARDINAL
+"File
+Tradition method Auto method File
+Tradition method Auto",ORG
+16min35s,CARDINAL
+13min28s,CARDINAL
+14min07s,CARDINAL
+13min07s,CARDINAL
+52s,CARDINAL
+13min45s,CARDINAL
+17min02s,CARDINAL
+1s,CARDINAL
+"23s
+GY-7
+14min50s",QUANTITY
+2min 56s,DATE
+16min28s,CARDINAL
+3,CARDINAL
+third,ORDINAL
+more than three,CARDINAL
+Fig,PERSON
+3,CARDINAL
+5,CARDINAL
+four,CARDINAL
+AFBRSC,ORG
+SBERT,ORG
+12,CARDINAL
+Yangyang Liu,PERSON
+Shoubin Li,PERSON
+2,MONEY
+Belong,GPE
+Belong,GPE
+Belong,GPE
+Belong,GPE
+Belong,GPE
+Belong,GPE
+Belong,GPE
+Belong,GPE
+Belong,GPE
+2,MONEY
+Belong,GPE
+Belong,GPE
+Belong,GPE
+Belong,GPE
+Belong,GPE
+Belong,GPE
+Belong,GPE
+Belong,GPE
+Belong,GPE
+Fig,PERSON
+3,CARDINAL
+AutoIE,GPE
+speciﬁc scientiﬁc contexts,PERSON
+AI,GPE
+1,CARDINAL
+Karen,PERSON
+US Trends and International Comparisons,ORG
+Science & Engineering Indicators,ORG
+2020,DATE
+NSB-2020-6,CARDINAL
+2019,DATE
+2,CARDINAL
+Li,PERSON
+Shoubin,PERSON
+al,PERSON
+18th,ORDINAL
+Paciﬁc Rim,FAC
+Conference on Artiﬁcial Intelligence,ORG
+Hanoi,GPE
+Vietnam,GPE
+"November 8–12, 2021",DATE
+18,CARDINAL
+International Publishing,ORG
+2021,DATE
+3,CARDINAL
+Li,PERSON
+Shoubin,PERSON
+Qing Wang,PERSON
+International Journal on Document Analysis,ORG
+Recognition,ORG
+IJDAR,ORG
+24.4,CARDINAL
+2021,DATE
+339,CARDINAL
+4,CARDINAL
+Neumann,ORG
+Mark,PERSON
+al,PERSON
+2019,DATE
+5,CARDINAL
+Lee,PERSON
+Kenton,GPE
+al,PERSON
+2017,DATE
+6,CARDINAL
+Markus,PERSON
+Adrian Ulges,ORG
+2019,DATE
+7,CARDINAL
+A. Rogers,PERSON
+O. Kovaleva,PERSON
+A. Rumshisky,PERSON
+bert works,PERSON
+8,CARDINAL
+pp,GPE
+842–866,CARDINAL
+2020,DATE
+13,CARDINAL
+Loper,PERSON
+Edward,PERSON
+Steven Bird,PERSON
+9,CARDINAL
+Roth,PERSON
+Dan,PERSON
+Wen-tau Yih,PERSON
+eighth,ORDINAL
+HLT-NAACL 2004,ORG
+2004,DATE
+10,CARDINAL
+Gupta,PERSON
+Pankaj,GPE
+Hinrich Schütze,PERSON
+Bernt Andrassy,PERSON
+the 26th International Conference on Computational Linguistics,ORG
+2016,DATE
+11,CARDINAL
+Gurulingappa,PERSON
+Harsha,PERSON
+al,PERSON
+Journal,ORG
+45.5,CARDINAL
+2012,DATE
+885,CARDINAL
+12,CARDINAL
+Giannis,PERSON
+al,PERSON
+2018,DATE
+13,CARDINAL
+Giannis,PERSON
+al,PERSON
+114,CARDINAL
+2018,DATE
+34-45,DATE
+14,CARDINAL
+Tran,PERSON
+Tung,PERSON
+Ramakanth Kavuluru,LOC
+2019,DATE
+15,CARDINAL
+Nguyen,PERSON
+Karin Verspoor,ORG
+"41st European
+Conference on IR Research",ORG
+2019,DATE
+Cologne,GPE
+Germany,GPE
+"April 14–18, 2019",DATE
+41,CARDINAL
+International Publishing,ORG
+2019,DATE
+16,CARDINAL
+Dai,PERSON
+Jifeng,PERSON
+al,PERSON
+29,CARDINAL
+2016,DATE
+17,CARDINAL
+Liu,PERSON
+Wei,PERSON
+al,PERSON
+2016,CARDINAL
+14th,ORDINAL
+European Conference,ORG
+Amsterdam,GPE
+The Netherlands,GPE
+October 11–14,DATE
+2016,DATE
+14,CARDINAL
+International Publishing,ORG
+2016,DATE
+18,CARDINAL
+Redmon,PERSON
+Joseph,PERSON
+Ali Farhadi,PERSON
+IEEE,ORG
+2017,DATE
+19,CARDINAL
+2017 14th,DATE
+IAPR International Conference on Document Analysis,EVENT
+Recognition,ORG
+2017,DATE
+776,CARDINAL
+20,CARDINAL
+Saman,ORG
+Faisal Shafait,PERSON
+2018,DATE
+Digital Image Computing: Techniques,ORG
+IEEE,ORG
+2018,DATE
+21,CARDINAL
+Yu,PERSON
+Bowen,PERSON
+al,PERSON
+2019,DATE
+22,CARDINAL
+Zeng,PERSON
+Xiangrong,GPE
+al,PERSON
+56th,ORDINAL
+Association,ORG
+Computational Linguistics (,ORG
+1,CARDINAL
+2018,DATE
+23,CARDINAL
+Huang,PERSON
+Weipeng,PERSON
+al,PERSON
+Bert-,PERSON
+Natural Language Processing and Chinese Computing,WORK_OF_ART
+8th,ORDINAL
+2019,DATE
+Dunhuang,GPE
+China,GPE
+October,DATE
+2019,DATE
+II 8,DATE
+International Publishing,ORG
+2019,DATE
+24,CARDINAL
+Hasan,PERSON
+Fatema,PERSON
+Arpita Roy,PERSON
+Shimei Pan,PERSON
+NLP,ORG
+2020,DATE
+IEEE,ORG
+2020,DATE

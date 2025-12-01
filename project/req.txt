@@ -1,0 +1,7 @@
+streamlit
+pytesseract
+spacy
+transformers
+torch
+pdf2image
+Pillow
