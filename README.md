@@ -1,1 +1,7 @@
-# Information-Extraction-From-Research-Papers
+Research papers are difficult to parse programmatically because they contain multi-column layouts, images, mathematical expressions, and irregular formatting styles. Basic OCR only reads text but fails to understand the structure. To overcome this, this project utilizes OCR for text extraction and LayoutLM (a layout-aware Transformer model) to interpret spatial relationships in the document. By integrating both, the system goes beyond text extraction — it attempts to interpret the document like a human reader. 
+
+The primary goal of this project is to build a pipeline that automatically processes research PDFs and identifies meaningful information without manual intervention. This reduces reading time, accelerates literature review, and makes research indexing efficient and intelligent.
+
+The input to the system is a PDF research paper. The file is first converted into image format page-by-page using pdf2image. OCR is then applied using pytesseract to extract raw textual content from each page. Once text and bounding box coordinates are obtained, the LayoutLM model processes the tokens along with their positional layout to generate label predictions.
+
+After processing all pages, the predicted tokens are combined into meaningful text segments. Further NLP processing is carried out using SpaCy to perform named entity recognition, helping identify people, organizations, dates, places, and scientific terms. Finally, the extracted information is formatted into a structured JSON output, allowing it to be reused in applications such as summarization, document classification, or research indexing systems.
