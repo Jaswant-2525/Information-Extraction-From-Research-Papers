@@ -1,16 +1,11 @@
 📄 **Automatic Extraction of Key Information from Research Papers using NLP & LayoutLM**
 
 This project focuses on automatically extracting important information from research papers in PDF format using OCR, NLP & document layout modeling. The system processes research papers, recognizes text, understands layout patterns, and extracts structured information such as:
-
-✔ Title
-
-✔ Abstract
-
-✔ Keywords
-
-✔ Named Entities
-
-✔ Token labels from LayoutLM
+1. Title
+2. Abstract
+3. Keywords
+4. Named Entities
+5. Token labels from LayoutLM
 
 It aims to automate literature analysis and reduce manual reading effort for researchers, students, and analysts.
 
@@ -49,10 +44,13 @@ It aims to automate literature analysis and reduce manual reading effort for res
 
 🚀 **Installation (Google Colab Recommended)**
 1. Install required libraries
+   
    pip install pytesseract pdf2image transformers spacy Pillow
+   
    python -m spacy download en_core_web_sm
 
-2. Install Poppler (required for pdf2image)
+3. Install Poppler (required for pdf2image)
+   
    apt-get install poppler-utils
 
    
