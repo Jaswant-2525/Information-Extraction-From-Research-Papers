@@ -1,11 +1,15 @@
-📄 **Automatic Extraction of Key Information from Research Papers using NLP & LayoutLM
-**
+📄 **Automatic Extraction of Key Information from Research Papers using NLP & LayoutLM**
+
 This project focuses on automatically extracting important information from research papers in PDF format using OCR, NLP & document layout modeling. The system processes research papers, recognizes text, understands layout patterns, and extracts structured information such as:
 
 ✔ Title
+
 ✔ Abstract
+
 ✔ Keywords
+
 ✔ Named Entities
+
 ✔ Token labels from LayoutLM
 
 It aims to automate literature analysis and reduce manual reading effort for researchers, students, and analysts.
@@ -15,6 +19,8 @@ It aims to automate literature analysis and reduce manual reading effort for res
 - Reduce manual reading time
 - Convert unstructured PDF text → structured JSON
 - Assist research scholars in faster literature review
+
+
 
 🔥 **Features**
 
@@ -27,6 +33,8 @@ It aims to automate literature analysis and reduce manual reading effort for res
 | 📦 Structured Output        | Extracted data returned in JSON format                |
 | ⚙️ Page-wise Processing     | Prevents RAM crashes by processing pages individually |
 
+
+
 🧠 **Technology Stack**
 
 | Category             | Tools Used          |
@@ -38,28 +46,21 @@ It aims to automate literature analysis and reduce manual reading effort for res
 | Backend / Processing | Python              |
 | Optional UI          | Streamlit           |
 
-📁 **Project Structure**
-📦 **NLP-ResearchExtractor**
-│── app.py                # (optional) UI for extraction using Streamlit
-│── process_pdf.py        # Main extraction logic
-│── utils.py              # Box conversion helper (if separated)
-│── README.md             # You're reading this ❤️
-│── uploads/              # Stores input PDFs
-│── outputs/              # Stores generated JSON output
 
 🚀 **Installation (Google Colab Recommended)**
 1. Install required libraries
    pip install pytesseract pdf2image transformers spacy Pillow
    python -m spacy download en_core_web_sm
+
 2. Install Poppler (required for pdf2image)
    apt-get install poppler-utils
+
    
 🔧 **How to Run in Google Colab**
+
     from google.colab import files
     uploaded = files.upload()
-
     pdf_path = list(uploaded.keys())[0]
     result = extract_info(pdf_path)
-
     import json
     print(json.dumps(result, indent=2))
