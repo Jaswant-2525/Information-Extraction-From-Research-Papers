@@ -1,5 +1,8 @@
-This project is designed a **Automatic System to Extract information from Research Papers** provided in PDF format. With the exponential growth of scientific publications, reading and manually extracting meaningful data from papers has become increasingly time-consuming. This work addresses that challenge by combining OCR, NLP techniques, and LayoutLM-based document understanding to convert unstructured PDF documents into structured and machine-readable information. 
-
-The system is capable of reading research papers, identifying text, understanding layout structure, and extracting important components such as title, abstract, keywords, named entities and token-level label outputs. The extracted content can then be exported in JSON format for further analysis, indexing, or integration into research applications.
- 
-The primary goal of this project is to build a pipeline that automatically processes research PDFs and identifies meaningful information without manual intervention. This reduces reading time, accelerates literature review, and makes research indexing efficient and intelligent.
+| Feature                     | Description                                           |
+| --------------------------- | ----------------------------------------------------- |
+| 📄 PDF to Image Conversion  | Converts pages to image format using `pdf2image`      |
+| 🔍 OCR Text Extraction      | Uses `pytesseract` to extract raw text from PDF pages |
+| 🧠 Layout-aware Processing  | Uses LayoutLM model to understand document structure  |
+| 🏷 Named Entity Recognition | Detects people, places, dates, organizations, etc.    |
+| 📦 Structured Output        | Extracted data returned in JSON format                |
+| ⚙️ Page-wise Processing     | Prevents RAM crashes by processing pages individually |
